@@ -1,0 +1,18 @@
+[
+  {
+    "text": "# Thème: Financial Sector\n**ID**: 7\n## Indicateurs liés au thème (50)\n- **Foreign direct investment, net outflows (BoP, current US$)** (Code: BM.KLT.DINV.CD.WD)\n- **Foreign direct investment, net outflows (% of GDP)** (Code: BM.KLT.DINV.WD.GD.ZS)\n- **Personal remittances, paid (current US$)** (Code: BM.TRF.PWKR.CD.DT)\n- **Foreign direct investment, net (BoP, current US$)** (Code: BN.KLT.DINV.CD)\n- **Portfolio Investment, net (BoP, current US$)** (Code: BN.KLT.PTXL.CD)\n- **Foreign direct investment, net inflows (BoP, current US$)** (Code: BX.KLT.DINV.CD.WD)\n- **Foreign direct investment, net inflows (% of GDP)** (Code: BX.KLT.DINV.WD.GD.ZS)\n- **Primary income on FDI (current US$)** (Code: BX.KLT.DREM.CD.DT)\n- **Portfolio equity, net inflows (BoP, current US$)** (Code: BX.PEF.TOTL.CD.WD)\n- **Personal transfers, receipts (BoP, current US$)** (Code: BX.TRF.PWKR.CD)\n- **Personal remittances, received (current US$)** (Code: BX.TRF.PWKR.CD.DT)",
+    "metadata": {
+      "doc_id": "282892bb-344c-4c16-952f-5f0644f260f0",
+      "filename": "topic_7.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Personal transfers, receipts (BoP, current US$)** (Code: BX.TRF.PWKR.CD)\n- **Personal remittances, received (current US$)** (Code: BX.TRF.PWKR.CD.DT)\n- **Personal remittances, received (% of GDP)** (Code: BX.TRF.PWKR.DT.GD.ZS)\n- **S&P Global Equity Indices (annual % change)** (Code: CM.MKT.INDX.ZG)\n- **Market capitalization of listed domestic companies (current US$)** (Code: CM.MKT.LCAP.CD)\n- **Market capitalization of listed domestic companies (% of GDP)** (Code: CM.MKT.LCAP.GD.ZS)\n- **Listed domestic companies, total** (Code: CM.MKT.LDOM.NO)\n- **Stocks traded, total value (current US$)** (Code: CM.MKT.TRAD.CD)\n- **Stocks traded, total value (% of GDP)** (Code: CM.MKT.TRAD.GD.ZS)\n- **Stocks traded, turnover ratio of domestic shares (%)** (Code: CM.MKT.TRNR)\n- **Portfolio investment, bonds (PPG + PNG) (NFL, current US$)** (Code: DT.NFL.BOND.CD)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "282892bb-344c-4c16-952f-5f0644f260f0",
+      "filename": "topic_7.md",
+      "chunk_id": 1
+    }
+  }
+]

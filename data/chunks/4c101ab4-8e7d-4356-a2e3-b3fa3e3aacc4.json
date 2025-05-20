@@ -1,0 +1,10 @@
+[
+  {
+    "text": "# Comparaison régionale: NY.GDP.PCAP.CD\n\n**Indicateur**: NY.GDP.PCAP.CD\n\n## Données par région (dernière année disponible)\n\n| Région | Année | Valeur |\n|--------|-------|--------|\n| East Asia & Pacific | 2023 | 12908.6377076783 |\n| Europe & Central Asia | 2023 | 29789.15402951 |\n| Latin America & Caribbean  | 2023 | 10796.8623721014 |\n| Middle East & North Africa | 2023 | 8499.84306394222 |\n| North America | 2023 | 79640.4296229555 |\n| South Asia | 2023 | 2303.30291008899 |\n| Sub-Saharan Africa  | 2023 | 1622.80705094435 |\n",
+    "metadata": {
+      "doc_id": "4c101ab4-8e7d-4356-a2e3-b3fa3e3aacc4",
+      "filename": "regional_comparison_comparison_NY.GDP.PCAP.CD.md",
+      "chunk_id": 0
+    }
+  }
+]

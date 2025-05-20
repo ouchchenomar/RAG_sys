@@ -1,0 +1,26 @@
+[
+  {
+    "text": "# Thème: Health\n**ID**: 8\n## Indicateurs liés au thème (50)\n- **Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49)** (Code: SG.VAW.1549.ZS)\n- **Women who believe a husband is justified in beating his wife when she argues with him (%)** (Code: SG.VAW.ARGU.ZS)\n- **Women who believe a husband is justified in beating his wife when she burns the food (%)** (Code: SG.VAW.BURN.ZS)\n- **Women who believe a husband is justified in beating his wife when she goes out without telling him (%)** (Code: SG.VAW.GOES.ZS)\n- **Women who believe a husband is justified in beating his wife when she neglects the children (%)** (Code: SG.VAW.NEGL.ZS)\n- **Women who believe a husband is justified in beating his wife (any of five reasons) (%)** (Code: SG.VAW.REAS.ZS)\n- **Women who believe a husband is justified in beating his wife when she refuses sex with him (%)** (Code: SG.VAW.REFU.ZS)",
+    "metadata": {
+      "doc_id": "59ee26e8-b4ce-4fdd-a5d1-ec2788bed37c",
+      "filename": "topic_8.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Women who believe a husband is justified in beating his wife when she refuses sex with him (%)** (Code: SG.VAW.REFU.ZS)\n- **Problems in accessing health care (not wanting to go alone) (% of women): Q1 (lowest)** (Code: SH.ACS.ALON.Q1.ZS)\n- **Problems in accessing health care (not wanting to go alone) (% of women): Q2** (Code: SH.ACS.ALON.Q2.ZS)\n- **Problems in accessing health care (not wanting to go alone) (% of women): Q3** (Code: SH.ACS.ALON.Q3.ZS)\n- **Problems in accessing health care (not wanting to go alone) (% of women): Q4** (Code: SH.ACS.ALON.Q4.ZS)\n- **Problems in accessing health care (not wanting to go alone) (% of women): Q5 (highest)** (Code: SH.ACS.ALON.Q5.ZS)\n- **Problems in accessing health care (distance to health facility) (% of women): Q1 (lowest)** (Code: SH.ACS.DIST.Q1.ZS)\n- **Problems in accessing health care (distance to health facility) (% of women): Q2** (Code: SH.ACS.DIST.Q2.ZS)",
+    "metadata": {
+      "doc_id": "59ee26e8-b4ce-4fdd-a5d1-ec2788bed37c",
+      "filename": "topic_8.md",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "- **Problems in accessing health care (distance to health facility) (% of women): Q2** (Code: SH.ACS.DIST.Q2.ZS)\n- **Problems in accessing health care (distance to health facility) (% of women): Q3** (Code: SH.ACS.DIST.Q3.ZS)\n- **Problems in accessing health care (distance to health facility) (% of women): Q4** (Code: SH.ACS.DIST.Q4.ZS)\n- **Problems in accessing health care (distance to health facility) (% of women): Q5 (highest)** (Code: SH.ACS.DIST.Q5.ZS)\n- **Problems in accessing health care (getting money for treatment) (% of women): Q1 (lowest)** (Code: SH.ACS.MONY.Q1.ZS)\n- **Problems in accessing health care (getting money for treatment) (% of women): Q2** (Code: SH.ACS.MONY.Q2.ZS)\n- **Problems in accessing health care (getting money for treatment) (% of women): Q3** (Code: SH.ACS.MONY.Q3.ZS)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "59ee26e8-b4ce-4fdd-a5d1-ec2788bed37c",
+      "filename": "topic_8.md",
+      "chunk_id": 2
+    }
+  }
+]

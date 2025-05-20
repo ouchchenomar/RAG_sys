@@ -1,0 +1,26 @@
+[
+  {
+    "text": "# Thème: Infrastructure\n**ID**: 9\n## Indicateurs liés au thème (50)\n- **ICT service exports (BoP, current US$)** (Code: BX.GSR.CCIS.CD)\n- **ICT service exports (% of service exports, BoP)** (Code: BX.GSR.CCIS.ZS)\n- **Electricity production from coal sources (% of total)** (Code: EG.ELC.COAL.ZS)\n- **Electricity production from hydroelectric sources (% of total)** (Code: EG.ELC.HYRO.ZS)\n- **Electric power transmission and distribution losses (% of output)** (Code: EG.ELC.LOSS.ZS)\n- **Electricity production from natural gas sources (% of total)** (Code: EG.ELC.NGAS.ZS)\n- **Electricity production from nuclear sources (% of total)** (Code: EG.ELC.NUCL.ZS)\n- **Electricity production from oil sources (% of total)** (Code: EG.ELC.PETR.ZS)\n- **Electric power consumption (kWh per capita)** (Code: EG.USE.ELEC.KH.PC)\n- **Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)** (Code: ER.H2O.FWAG.ZS)",
+    "metadata": {
+      "doc_id": "48b830f9-2945-46e2-b804-9e08e872210e",
+      "filename": "topic_9.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Electric power consumption (kWh per capita)** (Code: EG.USE.ELEC.KH.PC)\n- **Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)** (Code: ER.H2O.FWAG.ZS)\n- **Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)** (Code: ER.H2O.FWDM.ZS)\n- **Annual freshwater withdrawals, industry (% of total freshwater withdrawal)** (Code: ER.H2O.FWIN.ZS)\n- **Annual freshwater withdrawals, total (billion cubic meters)** (Code: ER.H2O.FWTL.K3)\n- **Annual freshwater withdrawals, total (% of internal resources)** (Code: ER.H2O.FWTL.ZS)\n- **Renewable internal freshwater resources, total (billion cubic meters)** (Code: ER.H2O.INTR.K3)\n- **Renewable internal freshwater resources per capita (cubic meters)** (Code: ER.H2O.INTR.PC)\n- **Information and communication technology expenditure per capita (current US$)** (Code: IE.ICT.PCAP.CD)\n- **Information and communication technology expenditure (current US$)** (Code: IE.ICT.TOTL.CD)",
+    "metadata": {
+      "doc_id": "48b830f9-2945-46e2-b804-9e08e872210e",
+      "filename": "topic_9.md",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "- **Information and communication technology expenditure (current US$)** (Code: IE.ICT.TOTL.CD)\n- **Information and communication technology expenditure (% of GDP)** (Code: IE.ICT.TOTL.GD.ZS)\n- **Investment in energy with private participation (current US$)** (Code: IE.PPI.ENGY.CD)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "48b830f9-2945-46e2-b804-9e08e872210e",
+      "filename": "topic_9.md",
+      "chunk_id": 2
+    }
+  }
+]

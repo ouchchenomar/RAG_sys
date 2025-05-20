@@ -1,0 +1,18 @@
+[
+  {
+    "text": "# Thème: Private Sector\n**ID**: 12\n## Indicateurs liés au thème (50)\n- **Trade in services (% of GDP)** (Code: BG.GSR.NFSV.GD.ZS)\n- **Insurance and financial services (% of service imports, BoP)** (Code: BM.GSR.INSF.ZS)\n- **Insurance and financial services (% of service exports, BoP)** (Code: BX.GSR.INSF.ZS)\n- **Domestic credit to private sector (% of GDP)** (Code: FS.AST.PRVT.GD.ZS)\n- **Distance to frontier score (0=lowest performance to 100=frontier)** (Code: IC.BUS.DFRN.XQ)\n- **Business extent of disclosure index (0=less disclosure to 10=more disclosure)** (Code: IC.BUS.DISC.XQ)\n- **Ease of doing business index (1=most business-friendly regulations)** (Code: IC.BUS.EASE.XQ)\n- **New business density (new registrations per 1,000 people ages 15-64)** (Code: IC.BUS.NDNS.ZS)\n- **New businesses registered (number)** (Code: IC.BUS.NREG)\n- **Depth of credit information index (0=low to 8=high)** (Code: IC.CRD.INFO.XQ)\n- **Private credit bureau coverage (% of adults)** (Code: IC.CRD.PRVT.ZS)",
+    "metadata": {
+      "doc_id": "5f741d5b-918a-444d-881c-e91faa94dd6f",
+      "filename": "topic_12.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Depth of credit information index (0=low to 8=high)** (Code: IC.CRD.INFO.XQ)\n- **Private credit bureau coverage (% of adults)** (Code: IC.CRD.PRVT.ZS)\n- **Public credit registry coverage (% of adults)** (Code: IC.CRD.PUBL.ZS)\n- **Average time to clear exports through customs (days)** (Code: IC.CUS.DURS.EX)\n- **Time to obtain an electrical connection (days)** (Code: IC.ELC.DURS)\n- **Power outages in firms in a typical month (number)** (Code: IC.ELC.OUTG)\n- **Firms experiencing electrical outages (% of firms)** (Code: IC.ELC.OUTG.ZS)\n- **Time required to get electricity (days)** (Code: IC.ELC.TIME)\n- **Cost to get electricity connection (% of income per capita)** (Code: IC.ELEC.COST.PC.ZS)\n- **Procedures required to get electricity (number)** (Code: IC.ELEC.PROC)\n- **Time required to get electricity (days)** (Code: IC.ELEC.TIME)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "5f741d5b-918a-444d-881c-e91faa94dd6f",
+      "filename": "topic_12.md",
+      "chunk_id": 1
+    }
+  }
+]

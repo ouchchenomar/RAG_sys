@@ -1,0 +1,26 @@
+[
+  {
+    "text": "# Thème: Urban Development\n**ID**: 16\n## Indicateurs liés au thème (27)\n- **Urban land area where elevation is below 5 meters (sq. km)** (Code: AG.LND.EL5M.UR.K2)\n- **Urban land area where elevation is below 5 meters (% of total land area)** (Code: AG.LND.EL5M.UR.ZS)\n- **Urban land area (sq. km)** (Code: AG.LND.TOTL.UR.K2)\n- **Access to electricity, urban (% of urban population)** (Code: EG.ELC.ACCS.UR.ZS)\n- **Access to non-solid fuel, urban (% of urban population)** (Code: EG.NSF.ACCS.UR.ZS)\n- **PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)** (Code: EN.ATM.PM25.MC.M3)\n- **PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)** (Code: EN.ATM.PM25.MC.ZS)\n- **Population density (people per sq. km of land area)** (Code: EN.POP.DNST)\n- **Urban population living in areas where elevation is below 5 meters (% of total population)** (Code: EN.POP.EL5M.UR.ZS)",
+    "metadata": {
+      "doc_id": "5e6f882a-e09b-43fc-800e-2a93e8d1ba0f",
+      "filename": "topic_16.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Population density (people per sq. km of land area)** (Code: EN.POP.DNST)\n- **Urban population living in areas where elevation is below 5 meters (% of total population)** (Code: EN.POP.EL5M.UR.ZS)\n- **Population living in slums (% of urban population)** (Code: EN.POP.SLUM.UR.ZS)\n- **Population in largest city** (Code: EN.URB.LCTY)\n- **Population in the largest city (% of urban population)** (Code: EN.URB.LCTY.UR.ZS)\n- **Population in urban agglomerations of more than 1 million** (Code: EN.URB.MCTY)\n- **Population in urban agglomerations of more than 1 million (% of total population)** (Code: EN.URB.MCTY.TL.ZS)\n- **Pump price for diesel fuel (US$ per liter)** (Code: EP.PMP.DESL.CD)\n- **Pump price for gasoline (US$ per liter)** (Code: EP.PMP.SGAS.CD)\n- **Motor vehicles (per 1,000 people)** (Code: IS.VEH.NVEH.P3)\n- **Passenger cars (per 1,000 people)** (Code: IS.VEH.PCAR.P3)\n- **Vehicles (per km of road)** (Code: IS.VEH.ROAD.K1)",
+    "metadata": {
+      "doc_id": "5e6f882a-e09b-43fc-800e-2a93e8d1ba0f",
+      "filename": "topic_16.md",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "- **Motor vehicles (per 1,000 people)** (Code: IS.VEH.NVEH.P3)\n- **Passenger cars (per 1,000 people)** (Code: IS.VEH.PCAR.P3)\n- **Vehicles (per km of road)** (Code: IS.VEH.ROAD.K1)\n- **Improved water source, urban (% of urban population with access)** (Code: SH.H2O.SAFE.UR.ZS)\n*Note: 7 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "5e6f882a-e09b-43fc-800e-2a93e8d1ba0f",
+      "filename": "topic_16.md",
+      "chunk_id": 2
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "text": "# Thème: Education\n**ID**: 4\n## Indicateurs liés au thème (50)\n- **Coverage: Finished Primary School** (Code: 2.0.cov.FPS)\n- **HOI: Finished Primary School** (Code: 2.0.hoi.FPS)\n- **Barro-Lee: Percentage of female population age 15-19 with no education** (Code: BAR.NOED.1519.FE.ZS)\n- **Barro-Lee: Percentage of population age 15-19 with no education** (Code: BAR.NOED.1519.ZS)\n- **Barro-Lee: Percentage of female population age 15+ with no education** (Code: BAR.NOED.15UP.FE.ZS)\n- **Barro-Lee: Percentage of population age 15+ with no education** (Code: BAR.NOED.15UP.ZS)\n- **Barro-Lee: Percentage of female population age 20-24 with no education** (Code: BAR.NOED.2024.FE.ZS)\n- **Barro-Lee: Percentage of population age 20-24 with no education** (Code: BAR.NOED.2024.ZS)\n- **Barro-Lee: Percentage of female population age 25-29 with no education** (Code: BAR.NOED.2529.FE.ZS)\n- **Barro-Lee: Percentage of population age 25-29 with no education** (Code: BAR.NOED.2529.ZS)",
+    "metadata": {
+      "doc_id": "da3f9ef1-dc59-46ee-9467-27e9a68cf687",
+      "filename": "topic_4.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Barro-Lee: Percentage of female population age 25-29 with no education** (Code: BAR.NOED.2529.FE.ZS)\n- **Barro-Lee: Percentage of population age 25-29 with no education** (Code: BAR.NOED.2529.ZS)\n- **Barro-Lee: Percentage of female population age 25+ with no education** (Code: BAR.NOED.25UP.FE.ZS)\n- **Barro-Lee: Percentage of population age 25+ with no education** (Code: BAR.NOED.25UP.ZS)\n- **Barro-Lee: Percentage of female population age 30-34 with no education** (Code: BAR.NOED.3034.FE.ZS)\n- **Barro-Lee: Percentage of population age 30-34 with no education** (Code: BAR.NOED.3034.ZS)\n- **Barro-Lee: Percentage of female population age 35-39 with no education** (Code: BAR.NOED.3539.FE.ZS)\n- **Barro-Lee: Percentage of population age 35-39 with no education** (Code: BAR.NOED.3539.ZS)\n- **Barro-Lee: Percentage of female population age 40-44 with no education** (Code: BAR.NOED.4044.FE.ZS)\n- **Barro-Lee: Percentage of population age 40-44 with no education** (Code: BAR.NOED.4044.ZS)",
+    "metadata": {
+      "doc_id": "da3f9ef1-dc59-46ee-9467-27e9a68cf687",
+      "filename": "topic_4.md",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "- **Barro-Lee: Percentage of female population age 40-44 with no education** (Code: BAR.NOED.4044.FE.ZS)\n- **Barro-Lee: Percentage of population age 40-44 with no education** (Code: BAR.NOED.4044.ZS)\n- **Barro-Lee: Percentage of female population age 45-49 with no education** (Code: BAR.NOED.4549.FE.ZS)\n- **Barro-Lee: Percentage of population age 45-49 with no education** (Code: BAR.NOED.4549.ZS)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "da3f9ef1-dc59-46ee-9467-27e9a68cf687",
+      "filename": "topic_4.md",
+      "chunk_id": 2
+    }
+  }
+]

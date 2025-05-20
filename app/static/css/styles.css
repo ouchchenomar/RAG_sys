@@ -1,0 +1,60 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.system-message {
+    background-color: #f0f7ff;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+}
+
+.user-message {
+    background-color: #e9ecef;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    text-align: right;
+}
+
+.assistant-message {
+    background-color: #d1e7dd;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+}
+
+.sources-info {
+    font-size: 0.8rem;
+    color: #6c757d;
+    margin-top: 5px;
+}
+
+/* Style pour les listes déroulantes */
+.overflow-auto {
+    border: 1px solid #ddd;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+/* Style pour le bouton de rafraîchissement */
+.btn-refresh {
+    margin-left: 10px;
+}
+
+/* Spinner animation */
+.spinner-border {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    margin-right: 8px;
+    vertical-align: text-bottom;
+    border: .15em solid currentColor;
+    border-right-color: transparent;
+    border-radius: 50%;
+    animation: spinner-border .75s linear infinite;
+}
+
+@keyframes spinner-border {
+    to { transform: rotate(360deg); }
+}

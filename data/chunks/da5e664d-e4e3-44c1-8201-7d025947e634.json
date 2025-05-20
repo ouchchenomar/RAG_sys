@@ -1,0 +1,26 @@
+[
+  {
+    "text": "# Thème: Energy & Mining\n**ID**: 5\n## Indicateurs liés au thème (50)\n- **Energy intensity level of primary energy (MJ/$2017 PPP GDP)** (Code: EG.EGY.PRIM.PP.KD)\n- **Access to electricity, rural (% of rural population)** (Code: EG.ELC.ACCS.RU.ZS)\n- **Access to electricity, urban (% of urban population)** (Code: EG.ELC.ACCS.UR.ZS)\n- **Access to electricity (% of population)** (Code: EG.ELC.ACCS.ZS)\n- **Electricity production from coal sources (% of total)** (Code: EG.ELC.COAL.ZS)\n- **Electricity production from oil, gas and coal sources (% of total)** (Code: EG.ELC.FOSL.ZS)\n- **Electricity production from hydroelectric sources (% of total)** (Code: EG.ELC.HYRO.ZS)\n- **Electric power transmission and distribution losses (% of output)** (Code: EG.ELC.LOSS.ZS)\n- **Electricity production from natural gas sources (% of total)** (Code: EG.ELC.NGAS.ZS)\n- **Electricity production from nuclear sources (% of total)** (Code: EG.ELC.NUCL.ZS)",
+    "metadata": {
+      "doc_id": "da5e664d-e4e3-44c1-8201-7d025947e634",
+      "filename": "topic_5.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Electricity production from natural gas sources (% of total)** (Code: EG.ELC.NGAS.ZS)\n- **Electricity production from nuclear sources (% of total)** (Code: EG.ELC.NUCL.ZS)\n- **Electricity production from oil sources (% of total)** (Code: EG.ELC.PETR.ZS)\n- **Renewable electricity output (% of total electricity output)** (Code: EG.ELC.RNEW.ZS)\n- **Electricity production from renewable sources, excluding hydroelectric (kWh)** (Code: EG.ELC.RNWX.KH)\n- **Electricity production from renewable sources, excluding hydroelectric (% of total)** (Code: EG.ELC.RNWX.ZS)\n- **Renewable energy consumption (% of total final energy consumption)** (Code: EG.FEC.RNEW.ZS)\n- **GDP per unit of energy use (PPP $ per kg of oil equivalent)** (Code: EG.GDP.PUSE.KO.PP)\n- **GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent)** (Code: EG.GDP.PUSE.KO.PP.KD)\n- **Energy imports, net (% of energy use)** (Code: EG.IMP.CONS.ZS)",
+    "metadata": {
+      "doc_id": "da5e664d-e4e3-44c1-8201-7d025947e634",
+      "filename": "topic_5.md",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "- **GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent)** (Code: EG.GDP.PUSE.KO.PP.KD)\n- **Energy imports, net (% of energy use)** (Code: EG.IMP.CONS.ZS)\n- **Access to non-solid fuel, rural (% of rural population)** (Code: EG.NSF.ACCS.RU.ZS)\n- **Access to non-solid fuel, urban (% of urban population)** (Code: EG.NSF.ACCS.UR.ZS)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "da5e664d-e4e3-44c1-8201-7d025947e634",
+      "filename": "topic_5.md",
+      "chunk_id": 2
+    }
+  }
+]

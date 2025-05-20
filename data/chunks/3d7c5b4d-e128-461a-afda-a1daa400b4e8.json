@@ -1,0 +1,10 @@
+[
+  {
+    "text": "# Comparaison régionale: NY.GDP.MKTP.CD\n\n**Indicateur**: NY.GDP.MKTP.CD\n\n## Données par région (dernière année disponible)\n\n| Région | Année | Valeur |\n|--------|-------|--------|\n| East Asia & Pacific | 2023 | 30780176881541.3 |\n| Europe & Central Asia | 2023 | 27554069781140.1 |\n| Latin America & Caribbean  | 2023 | 7100142198622.08 |\n| Middle East & North Africa | 2023 | 4320566779119.19 |\n| North America | 2023 | 29871321614401.4 |\n| South Asia | 2023 | 4494987381110.1 |\n| Sub-Saharan Africa  | 2023 | 2044578421949.78 |\n",
+    "metadata": {
+      "doc_id": "3d7c5b4d-e128-461a-afda-a1daa400b4e8",
+      "filename": "regional_comparison_comparison_NY.GDP.MKTP.CD.md",
+      "chunk_id": 0
+    }
+  }
+]

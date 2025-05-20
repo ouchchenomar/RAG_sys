@@ -1,0 +1,18 @@
+[
+  {
+    "text": "# Thème: Climate Change\n**ID**: 19\n## Indicateurs liés au thème (50)\n- **Agricultural land (sq. km)** (Code: AG.LND.AGRI.K2)\n- **Agricultural land (% of land area)** (Code: AG.LND.AGRI.ZS)\n- **Arable land (% of land area)** (Code: AG.LND.ARBL.ZS)\n- **Rural land area where elevation is below 5 meters (sq. km)** (Code: AG.LND.EL5M.RU.K2)\n- **Rural land area where elevation is below 5 meters (% of total land area)** (Code: AG.LND.EL5M.RU.ZS)\n- **Urban land area where elevation is below 5 meters (sq. km)** (Code: AG.LND.EL5M.UR.K2)\n- **Urban land area where elevation is below 5 meters (% of total land area)** (Code: AG.LND.EL5M.UR.ZS)\n- **Land area where elevation is below 5 meters (% of total land area)** (Code: AG.LND.EL5M.ZS)\n- **Forest area (sq. km)** (Code: AG.LND.FRST.K2)\n- **Forest area (% of land area)** (Code: AG.LND.FRST.ZS)\n- **Agricultural irrigated land (% of total agricultural land)** (Code: AG.LND.IRIG.AG.ZS)",
+    "metadata": {
+      "doc_id": "28e2c398-b12a-4b6b-8b7c-6f5fc8a5a113",
+      "filename": "topic_19.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Forest area (sq. km)** (Code: AG.LND.FRST.K2)\n- **Forest area (% of land area)** (Code: AG.LND.FRST.ZS)\n- **Agricultural irrigated land (% of total agricultural land)** (Code: AG.LND.IRIG.AG.ZS)\n- **Average precipitation in depth (mm per year)** (Code: AG.LND.PRCP.MM)\n- **Cereal yield (kg per hectare)** (Code: AG.YLD.CREL.KG)\n- **Foreign direct investment, net inflows (% of GDP)** (Code: BX.KLT.DINV.WD.GD.ZS)\n- **Access to electricity (% of population)** (Code: EG.ELC.ACCS.ZS)\n- **Electricity production from coal sources (% of total)** (Code: EG.ELC.COAL.ZS)\n- **Electricity production from hydroelectric sources (% of total)** (Code: EG.ELC.HYRO.ZS)\n- **Electricity production from natural gas sources (% of total)** (Code: EG.ELC.NGAS.ZS)\n- **Electricity production from nuclear sources (% of total)** (Code: EG.ELC.NUCL.ZS)\n- **Electricity production from oil sources (% of total)** (Code: EG.ELC.PETR.ZS)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "28e2c398-b12a-4b6b-8b7c-6f5fc8a5a113",
+      "filename": "topic_19.md",
+      "chunk_id": 1
+    }
+  }
+]

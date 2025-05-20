@@ -1,0 +1,26 @@
+[
+  {
+    "text": "# Thème: Gender\n**ID**: 17\n## Indicateurs liés au thème (50)\n- **Firms with female top manager (% of firms)** (Code: IC.FRM.FEMM.ZS)\n- **Firms with female participation in ownership (% of firms)** (Code: IC.FRM.FEMO.ZS)\n- **Literacy rate, youth female (% of females ages 15-24)** (Code: SE.ADT.1524.LT.FE.ZS)\n- **Literacy rate, youth (ages 15-24), gender parity index (GPI)** (Code: SE.ADT.1524.LT.FM.ZS)\n- **Literacy rate, youth male (% of males ages 15-24)** (Code: SE.ADT.1524.LT.MA.ZS)\n- **Literacy rate, adult female (% of females ages 15 and above)** (Code: SE.ADT.LITR.FE.ZS)\n- **Literacy rate, adult male (% of males ages 15 and above)** (Code: SE.ADT.LITR.MA.ZS)\n- **School enrollment, primary (gross), gender parity index (GPI)** (Code: SE.ENR.PRIM.FM.ZS)\n- **School enrollment, primary and secondary (gross), gender parity index (GPI)** (Code: SE.ENR.PRSC.FM.ZS)\n- **School enrollment, secondary (gross), gender parity index (GPI)** (Code: SE.ENR.SECO.FM.ZS)",
+    "metadata": {
+      "doc_id": "8d185268-675d-44d0-8d72-effc48561da4",
+      "filename": "topic_17.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **School enrollment, secondary (gross), gender parity index (GPI)** (Code: SE.ENR.SECO.FM.ZS)\n- **School enrollment, tertiary (gross), gender parity index (GPI)** (Code: SE.ENR.TERT.FM.ZS)\n- **School enrollment, preprimary, female (% gross)** (Code: SE.PRE.ENRR.FE)\n- **School enrollment, preprimary, male (% gross)** (Code: SE.PRE.ENRR.MA)\n- **Primary completion rate, female (% of relevant age group)** (Code: SE.PRM.CMPT.FE.ZS)\n- **Primary completion rate, male (% of relevant age group)** (Code: SE.PRM.CMPT.MA.ZS)\n- **Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)** (Code: SE.PRM.CUAT.FE.ZS)\n- **Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)** (Code: SE.PRM.CUAT.MA.ZS)\n- **Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)** (Code: SE.PRM.CUAT.ZS)\n- **Primary education, pupils (% female)** (Code: SE.PRM.ENRL.FE.ZS)",
+    "metadata": {
+      "doc_id": "8d185268-675d-44d0-8d72-effc48561da4",
+      "filename": "topic_17.md",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "- **Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)** (Code: SE.PRM.CUAT.ZS)\n- **Primary education, pupils (% female)** (Code: SE.PRM.ENRL.FE.ZS)\n- **School enrollment, primary, female (% gross)** (Code: SE.PRM.ENRR.FE)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "8d185268-675d-44d0-8d72-effc48561da4",
+      "filename": "topic_17.md",
+      "chunk_id": 2
+    }
+  }
+]

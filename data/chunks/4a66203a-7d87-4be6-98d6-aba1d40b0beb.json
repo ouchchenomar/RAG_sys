@@ -1,0 +1,18 @@
+[
+  {
+    "text": "# Thème: Environment\n**ID**: 6\n## Indicateurs liés au thème (50)\n- **Agricultural land (% of land area)** (Code: AG.LND.AGRI.ZS)\n- **Arable land (% of land area)** (Code: AG.LND.ARBL.ZS)\n- **Rural land area where elevation is below 5 meters (sq. km)** (Code: AG.LND.EL5M.RU.K2)\n- **Rural land area where elevation is below 5 meters (% of total land area)** (Code: AG.LND.EL5M.RU.ZS)\n- **Urban land area where elevation is below 5 meters (sq. km)** (Code: AG.LND.EL5M.UR.K2)\n- **Urban land area where elevation is below 5 meters (% of total land area)** (Code: AG.LND.EL5M.UR.ZS)\n- **Land area where elevation is below 5 meters (% of total land area)** (Code: AG.LND.EL5M.ZS)\n- **Forest area (sq. km)** (Code: AG.LND.FRST.K2)\n- **Forest area (% of land area)** (Code: AG.LND.FRST.ZS)\n- **Average precipitation in depth (mm per year)** (Code: AG.LND.PRCP.MM)\n- **Land area (sq. km)** (Code: AG.LND.TOTL.K2)\n- **Rural land area (sq. km)** (Code: AG.LND.TOTL.RU.K2)",
+    "metadata": {
+      "doc_id": "4a66203a-7d87-4be6-98d6-aba1d40b0beb",
+      "filename": "topic_6.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Average precipitation in depth (mm per year)** (Code: AG.LND.PRCP.MM)\n- **Land area (sq. km)** (Code: AG.LND.TOTL.K2)\n- **Rural land area (sq. km)** (Code: AG.LND.TOTL.RU.K2)\n- **Urban land area (sq. km)** (Code: AG.LND.TOTL.UR.K2)\n- **Surface area (sq. km)** (Code: AG.SRF.TOTL.K2)\n- **Organic water pollutant (BOD) emissions (kg per day)** (Code: EE.BOD.TOTL.KG)\n- **Access to clean fuels and technologies for cooking, rural (% of rural population)** (Code: EG.CFT.ACCS.RU.ZS)\n- **Access to clean fuels and technologies for cooking, urban (% of urban population)** (Code: EG.CFT.ACCS.UR.ZS)\n- **Access to clean fuels and technologies for cooking (% of population)** (Code: EG.CFT.ACCS.ZS)\n- **Energy intensity level of primary energy (MJ/$2017 PPP GDP)** (Code: EG.EGY.PRIM.PP.KD)\n- **Access to electricity (% of population)** (Code: EG.ELC.ACCS.ZS)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "4a66203a-7d87-4be6-98d6-aba1d40b0beb",
+      "filename": "topic_6.md",
+      "chunk_id": 1
+    }
+  }
+]

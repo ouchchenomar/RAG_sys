@@ -1,0 +1,18 @@
+[
+  {
+    "text": "# Thème: Poverty\n**ID**: 11\n## Indicateurs liés au thème (50)\n- **Poverty Headcount ($1.90 a day)** (Code: 1.0.HCount.1.90usd)\n- **Poverty Headcount ($2.50 a day)** (Code: 1.0.HCount.2.5usd)\n- **Middle Class ($10-50 a day) Headcount** (Code: 1.0.HCount.Mid10to50)\n- **Official Moderate Poverty Rate-National** (Code: 1.0.HCount.Ofcl)\n- **Poverty Headcount ($4 a day)** (Code: 1.0.HCount.Poor4uds)\n- **Vulnerable ($4-10 a day) Headcount** (Code: 1.0.HCount.Vul4to10)\n- **Poverty Gap ($1.90 a day)** (Code: 1.0.PGap.1.90usd)\n- **Poverty Gap ($2.50 a day)** (Code: 1.0.PGap.2.5usd)\n- **Poverty Gap ($4 a day)** (Code: 1.0.PGap.Poor4uds)\n- **Poverty Severity ($1.90 a day)** (Code: 1.0.PSev.1.90usd)\n- **Poverty Severity ($2.50 a day)** (Code: 1.0.PSev.2.5usd)\n- **Poverty Severity ($4 a day)** (Code: 1.0.PSev.Poor4uds)\n- **Poverty Headcount ($1.90 a day)-Rural** (Code: 1.1.HCount.1.90usd)\n- **Poverty Headcount ($2.50 a day)-Rural** (Code: 1.1.HCount.2.5usd)",
+    "metadata": {
+      "doc_id": "14e0e68c-f7cd-4264-8846-e5b443c7c222",
+      "filename": "topic_11.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Poverty Severity ($4 a day)** (Code: 1.0.PSev.Poor4uds)\n- **Poverty Headcount ($1.90 a day)-Rural** (Code: 1.1.HCount.1.90usd)\n- **Poverty Headcount ($2.50 a day)-Rural** (Code: 1.1.HCount.2.5usd)\n- **Middle Class ($10-50 a day) Headcount-Rural** (Code: 1.1.HCount.Mid10to50)\n- **Official Moderate Poverty Rate- Rural** (Code: 1.1.HCount.Ofcl)\n- **Poverty Headcount ($4 a day)-Rural** (Code: 1.1.HCount.Poor4uds)\n- **Vulnerable ($4-10 a day) Headcount-Rural** (Code: 1.1.HCount.Vul4to10)\n- **Poverty Gap ($1.90 a day)-Rural** (Code: 1.1.PGap.1.90usd)\n- **Poverty Gap ($2.50 a day)-Rural** (Code: 1.1.PGap.2.5usd)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "14e0e68c-f7cd-4264-8846-e5b443c7c222",
+      "filename": "topic_11.md",
+      "chunk_id": 1
+    }
+  }
+]

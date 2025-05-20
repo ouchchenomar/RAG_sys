@@ -1,0 +1,18 @@
+[
+  {
+    "text": "# Thème: Trade\n**ID**: 21\n## Indicateurs liés au thème (50)\n- **Trade in services (% of GDP)** (Code: BG.GSR.NFSV.GD.ZS)\n- **Communications, computer, etc. (% of service imports, BoP)** (Code: BM.GSR.CMCP.ZS)\n- **Imports of goods and services (BoP, current US$)** (Code: BM.GSR.GNFS.CD)\n- **Insurance and financial services (% of service imports, BoP)** (Code: BM.GSR.INSF.ZS)\n- **Goods imports (BoP, current US$)** (Code: BM.GSR.MRCH.CD)\n- **Service imports (BoP, current US$)** (Code: BM.GSR.NFSV.CD)\n- **Imports of goods, services and primary income (BoP, current US$)** (Code: BM.GSR.TOTL.CD)\n- **Transport services (% of service imports, BoP)** (Code: BM.GSR.TRAN.ZS)\n- **Travel services (% of service imports, BoP)** (Code: BM.GSR.TRVL.ZS)\n- **Net trade in goods and services (BoP, current US$)** (Code: BN.GSR.GNFS.CD)\n- **Net trade in goods (BoP, current US$)** (Code: BN.GSR.MRCH.CD)\n- **ICT service exports (BoP, current US$)** (Code: BX.GSR.CCIS.CD)",
+    "metadata": {
+      "doc_id": "f94984a2-773a-4a46-9399-a492a9c42541",
+      "filename": "topic_21.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Net trade in goods (BoP, current US$)** (Code: BN.GSR.MRCH.CD)\n- **ICT service exports (BoP, current US$)** (Code: BX.GSR.CCIS.CD)\n- **ICT service exports (% of service exports, BoP)** (Code: BX.GSR.CCIS.ZS)\n- **Communications, computer, etc. (% of service exports, BoP)** (Code: BX.GSR.CMCP.ZS)\n- **Exports of goods and services (BoP, current US$)** (Code: BX.GSR.GNFS.CD)\n- **Insurance and financial services (% of service exports, BoP)** (Code: BX.GSR.INSF.ZS)\n- **Goods exports (BoP, current US$)** (Code: BX.GSR.MRCH.CD)\n- **Service exports (BoP, current US$)** (Code: BX.GSR.NFSV.CD)\n- **Exports of goods, services and primary income (BoP, current US$)** (Code: BX.GSR.TOTL.CD)\n- **Transport services (% of service exports, BoP)** (Code: BX.GSR.TRAN.ZS)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "f94984a2-773a-4a46-9399-a492a9c42541",
+      "filename": "topic_21.md",
+      "chunk_id": 1
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "text": "# Thème: Science & Technology\n**ID**: 14\n## Indicateurs liés au thème (13)\n- **Charges for the use of intellectual property, payments (BoP, current US$)** (Code: BM.GSR.ROYL.CD)\n- **Charges for the use of intellectual property, receipts (BoP, current US$)** (Code: BX.GSR.ROYL.CD)\n- **Research and development expenditure (% of GDP)** (Code: GB.XPD.RSDV.GD.ZS)\n- **Scientific and technical journal articles** (Code: IP.JRN.ARTC.SC)\n- **Patent applications, nonresidents** (Code: IP.PAT.NRES)\n- **Patent applications, residents** (Code: IP.PAT.RESD)\n- **Trademark applications, direct nonresident** (Code: IP.TMK.NRES)\n- **Trademark applications, direct resident** (Code: IP.TMK.RESD)\n- **Trademark applications, total** (Code: IP.TMK.TOTL)\n- **Researchers in R&D (per million people)** (Code: SP.POP.SCIE.RD.P6)\n- **Technicians in R&D (per million people)** (Code: SP.POP.TECH.RD.P6)\n- **High-technology exports (current US$)** (Code: TX.VAL.TECH.CD)",
+    "metadata": {
+      "doc_id": "73ee1222-418d-42e6-b684-841a744f222f",
+      "filename": "topic_14.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Technicians in R&D (per million people)** (Code: SP.POP.TECH.RD.P6)\n- **High-technology exports (current US$)** (Code: TX.VAL.TECH.CD)\n- **High-technology exports (% of manufactured exports)** (Code: TX.VAL.TECH.MF.ZS)",
+    "metadata": {
+      "doc_id": "73ee1222-418d-42e6-b684-841a744f222f",
+      "filename": "topic_14.md",
+      "chunk_id": 1
+    }
+  }
+]

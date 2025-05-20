@@ -1,0 +1,18 @@
+[
+  {
+    "text": "# Thème: Agriculture & Rural Development\n**ID**: 1\n## Indicateurs liés au thème (49)\n- **Agricultural machinery, tractors** (Code: AG.AGR.TRAC.NO)\n- **Fertilizer consumption (% of fertilizer production)** (Code: AG.CON.FERT.PT.ZS)\n- **Fertilizer consumption (kilograms per hectare of arable land)** (Code: AG.CON.FERT.ZS)\n- **Agricultural land (sq. km)** (Code: AG.LND.AGRI.K2)\n- **Agricultural land (% of land area)** (Code: AG.LND.AGRI.ZS)\n- **Arable land (hectares)** (Code: AG.LND.ARBL.HA)\n- **Arable land (hectares per person)** (Code: AG.LND.ARBL.HA.PC)\n- **Arable land (% of land area)** (Code: AG.LND.ARBL.ZS)\n- **Land under cereal production (hectares)** (Code: AG.LND.CREL.HA)\n- **Permanent cropland (% of land area)** (Code: AG.LND.CROP.ZS)\n- **Rural land area where elevation is below 5 meters (sq. km)** (Code: AG.LND.EL5M.RU.K2)\n- **Rural land area where elevation is below 5 meters (% of total land area)** (Code: AG.LND.EL5M.RU.ZS)\n- **Forest area (sq. km)** (Code: AG.LND.FRST.K2)",
+    "metadata": {
+      "doc_id": "1fcbf1bb-7229-4d57-ba72-f79b1b7b2bfe",
+      "filename": "topic_1.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Rural land area where elevation is below 5 meters (% of total land area)** (Code: AG.LND.EL5M.RU.ZS)\n- **Forest area (sq. km)** (Code: AG.LND.FRST.K2)\n- **Forest area (% of land area)** (Code: AG.LND.FRST.ZS)\n- **Agricultural irrigated land (% of total agricultural land)** (Code: AG.LND.IRIG.AG.ZS)\n- **Average precipitation in depth (mm per year)** (Code: AG.LND.PRCP.MM)\n- **Land area (sq. km)** (Code: AG.LND.TOTL.K2)\n- **Rural land area (sq. km)** (Code: AG.LND.TOTL.RU.K2)\n- **Agricultural machinery, tractors per 100 sq. km of arable land** (Code: AG.LND.TRAC.ZS)\n- **Cereal production (metric tons)** (Code: AG.PRD.CREL.MT)\n*Note: 29 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "1fcbf1bb-7229-4d57-ba72-f79b1b7b2bfe",
+      "filename": "topic_1.md",
+      "chunk_id": 1
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "text": "# Thème: External Debt\n**ID**: 20\n## Indicateurs liés au thème (50)\n- **Imports of goods, services and primary income (BoP, current US$)** (Code: BM.GSR.TOTL.CD)\n- **Current account balance (BoP, current US$)** (Code: BN.CAB.XOKA.CD)\n- **Grants, excluding technical cooperation (current US$)** (Code: BX.GRT.EXTA.CD.DT)\n- **Grants, excluding technical cooperation (BoP, current US$)** (Code: BX.GRT.EXTA.CD.WD)\n- **Technical cooperation grants (current US$)** (Code: BX.GRT.TECH.CD.DT)\n- **Technical cooperation grants (BoP, current US$)** (Code: BX.GRT.TECH.CD.WD)\n- **Exports of goods, services and primary income (BoP, current US$)** (Code: BX.GSR.TOTL.CD)\n- **Foreign direct investment, net inflows in reporting economy (DRS, current US$)** (Code: BX.KLT.DINV.CD.DT)\n- **Foreign direct investment, net inflows (BoP, current US$)** (Code: BX.KLT.DINV.CD.WD)\n- **Primary income on FDI (current US$)** (Code: BX.KLT.DREM.CD.DT)",
+    "metadata": {
+      "doc_id": "74a73401-3324-49cf-8a69-5cd9ffeec29f",
+      "filename": "topic_20.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Foreign direct investment, net inflows (BoP, current US$)** (Code: BX.KLT.DINV.CD.WD)\n- **Primary income on FDI (current US$)** (Code: BX.KLT.DREM.CD.DT)\n- **Portfolio investment, equity (DRS, current US$)** (Code: BX.PEF.TOTL.CD.DT)\n- **Portfolio equity, net inflows (BoP, current US$)** (Code: BX.PEF.TOTL.CD.WD)\n- **Personal remittances, received (current US$)** (Code: BX.TRF.PWKR.CD.DT)\n- **PPG, bilateral (AMT, current US$)** (Code: DT.AMT.BLAT.CD)\n- **GG, bilateral (AMT, current US$)** (Code: DT.AMT.BLAT.GG.CD)\n- **OPS, bilateral (AMT, current US$)** (Code: DT.AMT.BLAT.OPS.CD)\n- **PRVG, bilateral (AMT, current US$)** (Code: DT.AMT.BLAT.PRVG.CD)\n- **PS, bilateral (AMT, current US$)** (Code: DT.AMT.BLAT.PS.CD)\n- **PPG, bilateral concessional (AMT, current US$)** (Code: DT.AMT.BLTC.CD)\n- **GG, bilateral concessional (AMT, current US$)** (Code: DT.AMT.BLTC.GG.CD)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "74a73401-3324-49cf-8a69-5cd9ffeec29f",
+      "filename": "topic_20.md",
+      "chunk_id": 1
+    }
+  }
+]

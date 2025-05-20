@@ -1,0 +1,18 @@
+[
+  {
+    "text": "# Thème: Public Sector\n**ID**: 13\n## Indicateurs liés au thème (50)\n- **Control of Corruption: Estimate** (Code: CC.EST)\n- **Control of Corruption: Number of Sources** (Code: CC.NO.SRC)\n- **Control of Corruption: Percentile Rank** (Code: CC.PER.RNK)\n- **Control of Corruption: Percentile Rank, Lower Bound of 90% Confidence Interval** (Code: CC.PER.RNK.LOWER)\n- **Control of Corruption: Percentile Rank, Upper Bound of 90% Confidence Interval** (Code: CC.PER.RNK.UPPER)\n- **Control of Corruption: Standard Error** (Code: CC.STD.ERR)\n- **Highest marginal tax rate, corporate rate (%)** (Code: GB.TAX.CMAR.ZS)\n- **Net acquisition of financial assets (current LCU)** (Code: GC.AST.TOTL.CN)\n- **Net acquisition of financial assets (% of GDP)** (Code: GC.AST.TOTL.GD.ZS)\n- **Central government debt, total (current LCU)** (Code: GC.DOD.TOTL.CN)\n- **Central government debt, total (% of GDP)** (Code: GC.DOD.TOTL.GD.ZS)\n- **Net incurrence of liabilities, total (current LCU)** (Code: GC.LBL.TOTL.CN)",
+    "metadata": {
+      "doc_id": "d2c2eeb8-5f16-4751-ae9e-30b0fc1d11f2",
+      "filename": "topic_13.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **Central government debt, total (% of GDP)** (Code: GC.DOD.TOTL.GD.ZS)\n- **Net incurrence of liabilities, total (current LCU)** (Code: GC.LBL.TOTL.CN)\n- **Net incurrence of liabilities, total (% of GDP)** (Code: GC.LBL.TOTL.GD.ZS)\n- **Net investment in nonfinancial assets (current LCU)** (Code: GC.NFN.TOTL.CN)\n- **Net investment in nonfinancial assets (% of GDP)** (Code: GC.NFN.TOTL.GD.ZS)\n- **Net lending (+) / net borrowing (-) (current LCU)** (Code: GC.NLD.TOTL.CN)\n- **Net lending (+) / net borrowing (-) (% of GDP)** (Code: GC.NLD.TOTL.GD.ZS)\n- **Grants and other revenue (current LCU)** (Code: GC.REV.GOTR.CN)\n- **Grants and other revenue (% of revenue)** (Code: GC.REV.GOTR.ZS)\n- **Social contributions (current LCU)** (Code: GC.REV.SOCL.CN)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "d2c2eeb8-5f16-4751-ae9e-30b0fc1d11f2",
+      "filename": "topic_13.md",
+      "chunk_id": 1
+    }
+  }
+]

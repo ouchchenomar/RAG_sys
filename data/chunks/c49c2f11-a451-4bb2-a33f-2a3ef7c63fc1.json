@@ -1,0 +1,10 @@
+[
+  {
+    "text": "Le système RAG (Retrieval-Augmented Generation) est une technologie \n    qui combine la recherche d'informations avec des modèles de langage. \n    Il permet d'améliorer les réponses des LLM en leur fournissant du contexte pertinent.\n    \n    Les composants principaux d'un système RAG sont:\n    1. Un système de gestion de documents\n    2. Un système d'indexation vectorielle\n    3. Un modèle de langage (LLM)\n    4. Un pipeline d'intégration\n    \n    Les avantages du RAG incluent une meilleure précision des réponses, \n    une réduction des hallucinations et la possibilité d'accéder à des connaissances spécifiques.",
+    "metadata": {
+      "doc_id": "c49c2f11-a451-4bb2-a33f-2a3ef7c63fc1",
+      "filename": "test_document_rag.txt",
+      "chunk_id": 0
+    }
+  }
+]

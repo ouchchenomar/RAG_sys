@@ -1,0 +1,18 @@
+[
+  {
+    "text": "# Thème: Economy & Growth\n**ID**: 3\n## Indicateurs liés au thème (50)\n- **Annualized Mean Income Growth (2004-2014)** (Code: 5.0.AMeanIncGr.All)\n- **Annualized Mean Income Growth Bottom 40 Percent (2004-2014)** (Code: 5.0.AMeanIncGr.B40)\n- **Annualized Mean Income Growth (2004-2009)** (Code: 5.1.AMeanIncGr.All)\n- **Annualized Mean Income Growth Bottom 40 Percent (2004-2009)** (Code: 5.1.AMeanIncGr.B40)\n- **Annualized Mean Income Growth (2009-2014)** (Code: 5.2.AMeanIncGr.All)\n- **Annualized Mean Income Growth Bottom 40 Percent (2009-2014)** (Code: 5.2.AMeanIncGr.B40)\n- **Consumption per capita (2011 $)** (Code: 6.0.Conspc)\n- **GDP (current $)** (Code: 6.0.GDP_current)\n- **GDP growth (annual %)** (Code: 6.0.GDP_growth)\n- **GDP (constant 2005 $)** (Code: 6.0.GDP_usd)\n- **GDP per capita, PPP (constant 2011 international $) ** (Code: 6.0.GDPpc_constant)\n- **GNI per capita (2011 $)** (Code: 6.0.GNIpc)\n- **Labor Force Participation Rate (%)-Bottom 40 Percent** (Code: 9.0.Labor.B40)",
+    "metadata": {
+      "doc_id": "0c4da0b6-e800-4daa-9b73-ff5da81432ff",
+      "filename": "topic_3.md",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "- **GNI per capita (2011 $)** (Code: 6.0.GNIpc)\n- **Labor Force Participation Rate (%)-Bottom 40 Percent** (Code: 9.0.Labor.B40)\n- **Labor Force Participation Rate (%)-Top 60 Percent** (Code: 9.0.Labor.T60)\n- **Labor Force Participation Rate (%)-Bottom 40 Percent, Male** (Code: 9.1.Labor.B40)\n- **Labor Force Participation Rate (%)-Top 60 Percent, Male** (Code: 9.1.Labor.T60)\n- **Labor Force Participation Rate (%)-Bottom 40 Percent, Female** (Code: 9.2.Labor.B40)\n- **Labor Force Participation Rate (%)-Top 60 Percent, Female** (Code: 9.2.Labor.T60)\n- **Trade in services (% of GDP)** (Code: BG.GSR.NFSV.GD.ZS)\n- **Communications, computer, etc. (% of service imports, BoP)** (Code: BM.GSR.CMCP.ZS)\n*Note: 30 autres indicateurs non affichés.*",
+    "metadata": {
+      "doc_id": "0c4da0b6-e800-4daa-9b73-ff5da81432ff",
+      "filename": "topic_3.md",
+      "chunk_id": 1
+    }
+  }
+]
